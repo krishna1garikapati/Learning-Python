@@ -1,0 +1,6 @@
+#Using input() function
+x=input('What is your name?\n')
+print(x)
+>>>What is your name?
+>>>Krishna #This is entered by user as input.
+>>>Krishna
