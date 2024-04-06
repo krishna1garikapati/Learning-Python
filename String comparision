@@ -1,1 +1,9 @@
-
+#String comparision
+# comparision operators works for string
+word='Sum'
+if word=='banana':
+  print('Your word'+ word + 'is correct and match to banana')
+elif word>'banana':
+  print('Your word' + word + 'comes before banana')
+elif word<'banana':
+  print('Your word ' + word + ' comes after banana')
