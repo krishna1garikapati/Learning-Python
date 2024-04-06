@@ -1,0 +1,6 @@
+x=2
+if x%2==0 or X%3==0:
+  print('divisible')
+else:
+  print('not divisible')
+>>>divisible
