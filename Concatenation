@@ -1,0 +1,4 @@
+x='apple'
+y='red'
+print(x+y)
+>>> applered
