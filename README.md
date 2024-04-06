@@ -7,8 +7,21 @@ All the learning based on following:
 
 All basics of Python you can learn in this branch.
 Topics like below can be learned here:
+
 1) variable, expression and statements
-2) condition execution
-3) Functions
-4) Iteration
-5) String (ongoing)
+Unlike human language Python vocabulary is pretty small which is known as reserved words or keyword.
+Examples:
+in
+for
+if
+elif
+return
+break
+TRUE
+FALSE
+else etc.
+
+3) condition execution
+4) Functions
+5) Iteration
+6) String (ongoing)
