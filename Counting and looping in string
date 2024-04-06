@@ -1,1 +1,8 @@
-
+#count number of 'a' in banana
+#Topic: counting and looping
+word='banana'
+count=0
+for i in word:
+  if i=='a':
+    count=count+1
+print(count)
