@@ -1,0 +1,5 @@
+a=['ban', 'nan', 'see']
+compare='banana'
+for i in a:
+  result=i in compare
+  print(result)
